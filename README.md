@@ -126,5 +126,4 @@ The JQuery used to perform the scroll-to functionality in the project has been a
 
 ### Media
 The photos used in this site were obtained from:
-    - [Pexels](https://www.pexels.com/royalty-free-images/)
-    - The project brief [repository](https://github.com/Code-Institute-Org/project-assets)
+    - [Pexels](https://www.pexels.com/royalty-free-images/) and the project brief [repository](https://github.com/Code-Institute-Org/project-assets)
