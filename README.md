@@ -15,11 +15,19 @@ Using front-end technologies along with a clean, sleek design, fans and potentia
 
 Understanding that the band is from the 60's era, it was important to get the balance right between old and new. The general feel of the website is fresh and modern, but the logo font and main header picture were chosen with the old style in mind.
 
+<img src="img/README/page1.png" width="700">
+<img src="img/README/page2.png" width="700">
+<img src="img/README/page3.png" width="700">
+
 The website has been designed to have all the content on one page. In order to ensure the user was able to access each section of the website, without having to manually scroll, a fixed navbar was implemented with intelligent Jquery scroll-to-section clickable menu items.
 
 The website packages everything a fan might want from The Monkees as a band. The audio section allows users to listen to a song, whilst continuing to visit other areas of the page (another benefit of having all the content on one page).
 
+<img src="img/README/header.png" width="700">
+
 Although used in a different way from the norm, the timeline section used to display information about the band members makes the text visually appealing and entices the user to read on. The timeline feature was adjusted to work slightly differently on a smaller screen, but the visual appeal remains.
+
+<img src="img/README/timeline.png" width="700">
 
 The live performance location section was also designed to behave differently on smaller screen sizes. The locations are stacked vertically on a mobile device or small screen, but spread horizontally across the page on a larger screen. Each performance location comes with it's own link to a website where tickets can be booked. The attribute `target="_blank"` opens the ticket booking website in another tab. This allows the user to be uninterrupted while on the band website page, and means that they can easily return to where they left off after purchasing tickets.
 
@@ -28,6 +36,8 @@ Initially an `<iframe>` tag was used to display the video content on the page. H
 The user can send a request to book The Monkees at an event of their choice, by filling in the HTML `<form>` at the bottom of the page. This contains three `<input>` fields and a `<textarea>` field, each with placeholder text to guide the user on which information to put where.
 
 Finally, the user is able to access each of the social media platforms that The Monkees are featured on by clicking on any of the social links at the bottom of the page. Again, the `target="_blank"` attribute opens the social media platform in another tab.
+
+<img src="img/README/social.png" width="700">
 
 The footer colour scheme matches the header's for uniformity.
 
